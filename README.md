@@ -53,7 +53,6 @@ This project addresses the dynamic nature of IoT device security, emphasizing th
 
 ### Proposed Work:
 ###### The proposed approach detects the spam parameters causing the IoT devices to be affected. To get the best results, the IoT dataset is used for the validation of proposed approach as described in the next Section. The proposed framework,  detects the spam parameters using machine learning models. The IoT dataset used for experiments, is pre-processed by using feature engineering procedure. By experimenting the framework with machine learning models, each appliance is awarded with a spam score. This refines the conditions to be taken for successful working on devices in a smart home. 
-https://docs.google.com/document/d/1-CiCjm-dsSjEmqJFzUZB2794mQAySMHSHGUXAjEV2hY/edit?usp=sharing
 
 ### Conclusion : 
 #### To effectively detect spam in IoT devices, it is important to carefully consider the unique characteristics of the devices and the data being analyzed, and to use a combination of techniques to achieve the best possible results. Additionally, it is important to monitor and adapt to changes in the data and to continuously update and improve the spam detection system to keep up with evolving spam and other malicious activity. Overall, spam detection in IoT devices is a crucial task for ensuring the security and reliability of IoT systems, and ongoing research and development in this area will be critical for the continued growth and success of the IoT industry. 
